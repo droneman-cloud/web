@@ -18,7 +18,7 @@ const experiences = [
   },
   {
     title: "Network Support Engineer",
-    company: "Dynasys Systems Pvt LTD",
+    company: "Tesco",
     location: "Bangalore",
     tasks: [
       "Monitored network performance & troubleshot connectivity issues",
